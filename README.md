@@ -1,6 +1,6 @@
 # React State Demo
 
-IF YOU WANT TO SEE THE APP FOLLOW THIS LINK: reactstatedemo-rao.surge.sh
+THIS IS THE CODE OF CLASS 04 OF BOOTCAMP 2020 HELD BY PANACLOUD.AI IF YOU WANT TO SEE THE APP FOLLOW THIS LINK: reactstatedemo-rao.surge.sh
 
 # Getting Started with Create React App
 
