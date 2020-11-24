@@ -1,0 +1,12 @@
+.room {
+    height: 100%;
+}
+.lit{
+    background-color: aliceblue;
+    color: red;
+}
+
+.dark {
+    background-color: purple;
+    color: navy;
+}
